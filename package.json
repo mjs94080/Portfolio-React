@@ -25,5 +25,17 @@
     "autoprefixer": "^10.4.16",
     "postcss": "^5.0.1",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
